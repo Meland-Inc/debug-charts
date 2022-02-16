@@ -3,12 +3,12 @@ entries:
   debug-chart-push:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-16T10:54:40.160726789Z"
+    created: "2022-02-16T11:14:01.886301937Z"
     description: A Helm chart for Kubernetes
-    digest: 572b32499416aef33be7fc247b00558062b9d0c17a05afb6d7db961fa189a9db
+    digest: e724c3f54aa2f22e2f06f731eb803f79de02ac5beea30d397802d1b273ab8bb0
     name: debug-chart-push
     type: application
     urls:
     - https://meland-inc.github.io/debug-charts/debug-chart-push-0.1.1.tgz
     version: 0.1.1
-generated: "2022-02-16T10:54:40.160116819Z"
+generated: "2022-02-16T11:14:01.885707619Z"
